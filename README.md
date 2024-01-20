@@ -1,9 +1,16 @@
-# Emotion_detection
-Simple Emotion_Detection using Machine Learning
 
-To use our Emotion Detection Model
-1.Just clone or download and unzip our resporatory
-2.install tensorflow and cv2 in the system using pip
-3.run the gui.py file
-4.upload the image in the gui
-5.click on the Detect button to detect the emotion.
+Emotion Detector with GUI
+Overview
+This project is an Emotion Detector with a Graphical User Interface (GUI) that allows users to input images and detects the emotion expressed in those images. It leverages pre-trained deep learning models to analyze facial expressions and provide an emotional classification.
+
+Features
+Emotion detection from facial expressions in images.
+User-friendly GUI for easy interaction.
+Support for various image formats.
+Dependencies
+Make sure you have the following libraries installed before running the application:
+
+Python (version 3.x recommended)
+OpenCV (Image processing)
+TensorFlow (Deep learning framework)
+Keras (High-level neural networks API)
